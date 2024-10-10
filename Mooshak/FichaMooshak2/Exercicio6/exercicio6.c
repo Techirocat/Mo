@@ -1,34 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 
-/*
-
-anos_c = 5 anos -> +1%
-anos_i = 5 anos -> +1%
-idade_d = {10,20,30,40,50,...}
-
-preco final = preco + idade_d(desconto) - anos_c(desconto) - anos_i(desconto)
-
-
-TESTE: 
-
-1100.50 12 4 43 -> 1353.62
-1500.20 7 1 32 -> 1785.24
-750.67 9 12 58 -> 923.35                  ( 30 - 2- 1 = 27% )
-
-
-Posibilidade que não são possiveis:
-
-- Valores do input serm menores de 0
-- idade de contrato e do acidente maiores que a idade
-- desconto menor do que 0?
-- desconto maior ou igual a 100% ?
-- 
-
-
-*/
-
-
 int main(){
 
   char ipt[30];
