@@ -1,4 +1,4 @@
-## Mooshak para Burros - LEI FOR MONEY
+## 🫏 Mooshak para Burros - LEI FOR MONEY
 
 Criado com ChatGPT :)
 
