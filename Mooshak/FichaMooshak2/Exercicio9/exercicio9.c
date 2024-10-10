@@ -1,19 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 
-/*
-
-Notas de 0 a 20 
-a - 40%
-b - 60%
-
-
-d - nota final
-d >= 10
-
-
-*/
-
 
 int main(){
 
